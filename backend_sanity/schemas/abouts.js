@@ -1,5 +1,5 @@
 export default {
-  name: 'abouts',
+  namee: 'abouts',
   title: 'Abouts',
   type: 'document',
   fields: [
